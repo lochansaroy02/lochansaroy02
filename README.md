@@ -5,10 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lochansaroy02" alt="lochansaroy02" /></a> </p>
 
-- 🔭 I’m currently working on **[Dating App](https://github.com/lochansaroy02/dating-app-MERN)**
-
-- 🌱 I’m currently learning **Solidity in Blockchain**
-
 - 👨‍💻 All of my projects are available at [My portfolio](https://lochankumar.vercel.app/)
 
 - 💬 Ask me about **react, node, express**
